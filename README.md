@@ -1,4 +1,4 @@
-# Algorithm_
+a# Algorithm_
 sliding window
 centre expansion
 row simulation
@@ -11,7 +11,7 @@ Two pointers Technique
 
 Loopup Table
 
-3sum two pointer
+3sum two pointerasd
 
 backtracking
 
